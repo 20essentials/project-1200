@@ -1,0 +1,1 @@
+import{$ as o}from"./functions.DyxYIT6y.js";const a=o(".container-rings-2"),c=720,r=document.createDocumentFragment();for(let n=0;n<c;n++){const t=document.createElement("div"),e=n/2;t.classList.add("ring"),t.style.color=`hsl(${e},100%,50%)`,t.style.transform=`rotateX(${e}deg) translateY(-13.02vmax)`,r.appendChild(t)}a.appendChild(r);
